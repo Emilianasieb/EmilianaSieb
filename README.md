@@ -8,7 +8,7 @@ Estoy cursando mi último año de la **Tecnicatura en Programación en la UTN**.
 ## 🚀 Tecnologías y Herramientas
 - **Lenguajes:** Java, C#, HTML, CSS, JavaScript  
 - **Bases de datos:** SQL, NoSQL  
-- **Herramientas:** MongoDB, PgAdmin  
+- **Herramientas:** Eclipse, Visual Studio Code, Visual Studio, MongoDB, PgAdmin  
 - **Otros:** React (nivel básico)  
 
 ---
